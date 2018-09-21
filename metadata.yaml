@@ -7,6 +7,9 @@ contributor:
     deathdate: 1928
     gutenberg_agent_id: '43882'
     url: http://www.gutenberg.org/2009/agents/43882
+covers:
+- cover_type: archival
+  image_path: 54900-h/images/cover.jpg
 creator:
   author:
     agent_name: Frederic, Harold
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/83
     wikipedia: http://en.wikipedia.org/wiki/Harold_Frederic
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54900#The-Return-of-The-O-Mahony-A-Novel
 gutenberg_issued: '2017-06-13'
 gutenberg_type: Text
 identifiers:
